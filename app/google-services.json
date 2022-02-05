@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "657440542043",
+    "project_id": "chirkut-chat",
+    "storage_bucket": "chirkut-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657440542043:android:bef4ae4e380bacabd29e7e",
+        "android_client_info": {
+          "package_name": "com.sajibthedev.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "657440542043-ru69m8p6jjen82h2k6h1279cuumpoldq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCijj2A8p87WhQH1dUGzREtd-tJ5TrJUPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "657440542043-ru69m8p6jjen82h2k6h1279cuumpoldq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Chirkut chat</string>
+    <string name="user_name">User Name</string>
+    <string name="enter_your_username">enter your username</string>
+    <string name="email">Email</string>
+    <string name="enter_your_email">enter your email</string>
+    <string name="password">Password</string>
+    <string name="enter_your_password">enter your password</string>
+    <string name="register">Register</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="sajib_hossain">Sajib Hossain</string>
+    <string name="last_message">Last Message</string>
+    <string name="enter_your_chat">enter your message</string>
+    <string name="_07_12pm">07:13pm</string>
+    <string name="back">back</string>
+    <string name="save">save</string>
+    <string name="status">Status</string>
+</resources>
