@@ -33,6 +33,7 @@ I have created this android chat app using Java and XML in android studio.
 - learnt about firebase realtime database
 - learnt about firbase storage
 - learnt about android basic such as implementing menu etc.
+- learnt about OOP
 
 ## License
 
